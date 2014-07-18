@@ -1,0 +1,1 @@
+1/municipios_sevilla mun_clean cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

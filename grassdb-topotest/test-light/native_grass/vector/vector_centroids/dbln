@@ -1,0 +1,1 @@
+1 vector_centroids cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

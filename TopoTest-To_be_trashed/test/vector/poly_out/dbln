@@ -1,0 +1,1 @@
+1/polygons poly_out cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

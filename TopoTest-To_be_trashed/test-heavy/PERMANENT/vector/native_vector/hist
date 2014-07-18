@@ -1,0 +1,10 @@
+COMMAND: v.edit map="native_vector" layer=1 type="point,line,boundary,centroid" tool="create" thresh=-1,0,0 snap="no"
+GISDBASE: /home/git/Topology-Test-Suite/TopoTest
+LOCATION: test-heavy MAPSET: PERMANENT USER: malkab DATE: Fri Jul 18 10:15:58 2014
+---------------------------------------------------------------------------------
+COMMAND: v.db.connect map="native_vector" driver="dbf" database="$GISDBASE/$LOCATION_NAME/$MAPSET/dbf/" table="native_vector" key="cat" layer=1 fs=" "
+GISDBASE: /home/git/Topology-Test-Suite/TopoTest
+LOCATION: test-heavy MAPSET: PERMANENT USER: malkab DATE: Fri Jul 18 10:15:58 2014
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------

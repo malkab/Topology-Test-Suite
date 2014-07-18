@@ -1,0 +1,8 @@
+COMMAND: v.in.ogr dsn="./InputShapes" output="mun" layer="municipios_sevilla" min_area=0.0001 snap=-1
+GISDBASE: /home/git/Topology-Test-Suite/TopoTest
+LOCATION: test-heavy MAPSET: PERMANENT USER: malkab DATE: Fri Jul 18 10:04:18 2014
+-----------------------------------------------------
+111 input polygons
+Total area: 1.40509E+10 (112 areas)
+Overlapping area: 0 (0 areas)
+Area without category: 6.32584E+06 (1 areas)

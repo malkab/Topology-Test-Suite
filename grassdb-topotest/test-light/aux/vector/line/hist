@@ -1,0 +1,3 @@
+COMMAND: v.in.ogr dsn="./InputShapes" output="line" layer="lines" min_area=0.0001 snap=-1
+GISDBASE: /home/git/Topology-Test-Suite/grassdb-topotest
+LOCATION: test-light MAPSET: aux USER: malkab DATE: Fri Jul 18 12:19:49 2014

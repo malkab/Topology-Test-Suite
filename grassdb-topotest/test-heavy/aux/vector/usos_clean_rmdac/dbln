@@ -1,0 +1,1 @@
+1/usos usos_clean_rmdac cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

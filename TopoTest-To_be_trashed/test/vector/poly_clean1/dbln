@@ -1,0 +1,1 @@
+1/polygons poly_clean1 cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

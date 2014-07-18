@@ -1,0 +1,7 @@
+COMMAND: v.in.ogr dsn="/home/malkab/Desktop/TopoTestSuite/InputShapes" output="line" layer="lines" min_area=0.0001 snap=-1
+GISDBASE: /home/malkab/Desktop/TopoTestSuite
+LOCATION: TopoTest MAPSET: PERMANENT USER: malkab DATE: Thu Jul 10 17:38:41 2014
+---------------------------------------------------------------------------------
+COMMAND: v.clean input="line" output="line000" type="point,line,boundary,centroid,area" error="line000_error" tool="snap,break,rmdupl" thresh=1000,0,0
+GISDBASE: /home/malkab/Desktop/TopoTestSuite
+LOCATION: TopoTest MAPSET: PERMANENT USER: malkab DATE: Thu Jul 10 17:38:41 2014
