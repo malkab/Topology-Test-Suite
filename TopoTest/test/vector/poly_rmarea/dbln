@@ -1,0 +1,1 @@
+1/polygons poly_rmarea cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf

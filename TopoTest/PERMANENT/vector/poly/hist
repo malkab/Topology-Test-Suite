@@ -1,0 +1,8 @@
+COMMAND: v.in.ogr dsn="/home/malkab/Desktop/TopoTestSuite/InputShapes" output="poly" layer="polygons" min_area=0.0001 snap=-1
+GISDBASE: /home/malkab/Desktop/TopoTestSuite
+LOCATION: TopoTest MAPSET: PERMANENT USER: malkab DATE: Thu Jul 10 17:38:41 2014
+-----------------------------------------------------
+3 input polygons
+Total area: 1.88524E+08 (7 areas)
+Overlapping area: 6.5552E+06 (3 areas)
+Area without category: 95917.2 (1 areas)
